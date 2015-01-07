@@ -1,9 +1,0 @@
-INDEX VERSION 1.127
-/Users/yons/Documents/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1057726450.index
-/upload_file_service/src
-/Users/yons/Documents/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/917262202.index
-/upload_file_service/src
-/Users/yons/Documents/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3840716875.index
-/FrankensteinServer/src
-/Users/yons/Documents/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2902634076.index
-/FrankensteinServer/src
