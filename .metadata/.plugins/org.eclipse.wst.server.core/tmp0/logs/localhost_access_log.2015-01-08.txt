@@ -1,0 +1,4 @@
+127.0.0.1 - - [08/Jan/2015:01:25:19 +0800] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [08/Jan/2015:01:25:20 +0800] "GET /MJServer/ HTTP/1.1" 200 2118
+0:0:0:0:0:0:0:1 - - [08/Jan/2015:01:26:21 +0800] "GET /MJServer/login?username=324&pwd=423&method=get&type=JSON HTTP/1.1" 200 41
+0:0:0:0:0:0:0:1 - - [08/Jan/2015:01:26:29 +0800] "GET /MJServer/login?username=123&pwd=123&method=get&type=JSON HTTP/1.1" 200 37

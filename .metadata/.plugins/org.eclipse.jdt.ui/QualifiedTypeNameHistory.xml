@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.xml.sax.Parser"/>
+<fullyQualifiedTypeName name="org.xml.sax.helpers.ParserAdapter"/>
+<fullyQualifiedTypeName name="javax.swing.text.html.parser.Parser"/>
+<fullyQualifiedTypeName name="javax.swing.text.html.HTMLEditorKit.Parser"/>
+<fullyQualifiedTypeName name="org.w3c.dom.traversal.NodeFilter"/>
+<fullyQualifiedTypeName name="org.htmlparser.Parser"/>
+<fullyQualifiedTypeName name="org.htmlparser.NodeFilter"/>
+<fullyQualifiedTypeName name="org.htmlparser.util.NodeList"/>
+<fullyQualifiedTypeName name="org.htmlparser.nodes.TagNode"/>
+<fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+</qualifiedTypeNameHistroy>
